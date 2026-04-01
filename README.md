@@ -35,7 +35,7 @@ Open-source agents built on n8n + Claude Code. Each one enforces a specific reve
 | Agent | What It Enforces | Status |
 |-------|-----------------|--------|
 | [Enforcement Live Dashboard](https://github.com/ronfarley0317/enforcement-live-dashboard) | Watch agents operate in real time | ✅ Live |
-| [Invoice Payment Enforcer] (https://github.com/ronfarley0317/collections-agent) | No invoice sits unpaid beyond terms | ✅ Live |
+| [Invoice Payment Enforcer](https://github.com/ronfarley0317/collections-agent) | No invoice sits unpaid beyond terms | ✅ Live |
 | Proposal Follow-Up Enforcer | No proposal dies in silence | 🔴 Shipping |
 | Scope Creep Compensation Enforcer | No work without a signed change order | 🔴 Shipping |
 | Renewal Opportunity Enforcer | No contract expires without a conversation | 🔴 Shipping |
