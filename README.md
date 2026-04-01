@@ -30,7 +30,7 @@ I remove the human as the failure point.
 
 ## The Enforcement Agent Library
 
-Open-source agents built on n8n + Claude Code. Each one enforces a specific revenue outcome autonomously.
+Open-source agents built on n8n orchestration + Claude Code and self hosted on hostinger. Each one enforces a specific revenue outcome autonomously.
 
 | Agent | What It Enforces | Status |
 |-------|-----------------|--------|
