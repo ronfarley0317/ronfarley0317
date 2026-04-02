@@ -16,7 +16,7 @@ Autonomous enforcement systems that make revenue leakage structurally impossible
 
 Not alerts. Not "better processes."
 
-Enforcement agents that detect, intervene, and escalate — without waiting for someone to remember. The average service business leaks 15–25% of earned revenue through forgotten follow-ups, uncollected invoices, missed renewals, and uncompensated scope. The work was done. The money was earned. It escaped because a human was the failure point.
+Enforcement agents that detect, intervene, and escalate without waiting for someone to remember. The average service business leaks 15–25% of earned revenue through forgotten follow-ups, uncollected invoices, missed renewals, and uncompensated scope. The work was done. The money was earned. It escaped because a human was the failure point.
 
 I remove the human as the failure point.
 
