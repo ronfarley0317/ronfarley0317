@@ -68,10 +68,10 @@ Visibility does not prevent loss. Enforcement does.
 
 ## Work Together
 
-If your revenue depends on someone remembering to follow up — it's already leaking.
+If your revenue depends on someone remembering to follow up it's already leaking.
 
 **[→ Book a Revenue Integrity Diagnostic](https://calendly.com/physisadvisory/1-1-physis-ai-implementation-review)**
-45 minutes. We quantify what's escaping and map the enforcement architecture to stop it.
+We quantify what's escaping and map the enforcement architecture to stop it.
 
 **[→ Connect on LinkedIn](https://www.linkedin.com/in/ronald-farley-jr-882345157/)**
 
