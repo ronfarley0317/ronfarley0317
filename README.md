@@ -4,77 +4,45 @@
 
 ---
 
-> *Any revenue that depends on human memory, discipline, or follow-up will leak at scale.*
-
-That's not an opinion. It's a law. And most service businesses are violating it right now.
+> Most businesses don't have an AI problem. They have a revenue-capture problem and AI happens to be the most precise tool available for solving it, when it's pointed at the right place.
 
 ---
 
-## What I Build
+## Where I stand on AI
 
-Autonomous enforcement systems that make revenue leakage structurally impossible.
+The market is loud right now. Everyone is shipping a chatbot and calling it transformation. Most of it never touches revenue at all and it just makes a task feel faster.
 
-Not alerts. Not "better processes."
+I build the other kind of system: one that sits directly on the money. A missed call that costs a job. A follow-up that never happens. An invoice that ages past terms. These are not efficiency problems. They are leaks, and they compound at scale.
 
-Enforcement agents that detect, intervene, and escalate without waiting for someone to remember. The average service business leaks 15–25% of earned revenue through forgotten follow-ups, uncollected invoices, missed renewals, and uncompensated scope. The work was done. The money was earned. It escaped because a human was the failure point.
-
-I remove the human as the failure point.
+AI, here, is not the feature. It's the mechanism that closes a leak permanently with a number attached to prove it worked.
 
 ---
 
-## See It Live
+## What to expect
 
-## | [Enforcement Live Dashboard](https://github.com/ronfarley0317/enforcement-live-dashboard) | Watch agents operate in real time | ✅ Live |
+No platform demos. No theoretical use cases. The process is the same every time:
 
----
+1. **Diagnose** — find exactly where revenue is escaping, and put a number on it.
+2. **Design** — map the smallest system that closes that specific leak.
+3. **Install** — build and deploy it against real activity, not a sandbox.
+4. **Prove** — show the recovered revenue in plain terms, monthly.
 
-## The Enforcement Agent Library
-
-Open-source agents built on n8n orchestration + Claude Code and self hosted on hostinger. Each one enforces a specific revenue outcome autonomously.
-
-| Agent | What It Enforces | Status |
-|-------|-----------------|--------|
-| [Enforcement Live Dashboard](https://github.com/ronfarley0317/enforcement-live-dashboard) | Watch agents operate in real time | ✅ Live |
-| [Invoice Payment Enforcer](https://github.com/ronfarley0317/collections-agent) | No invoice sits unpaid beyond terms | ✅ Live |
-| [Proposal Follow-Up Enforcer](https://github.com/ronfarley0317/proposal-follow-up-enforcer) | No proposal dies in silence | ✅ Live |
-| [Scope Creep Compensation Enforcer](https://github.com/ronfarley0317/scope-creep-compensation-enforcer) | No work without a signed change order | ✅ Live |
-| Renewal Opportunity Enforcer | No contract expires without a conversation | 🔴 Shipping |
-| Client Communication Gap Monitor | No client goes silent before churn | 🔴 Shipping |
-| Payment Plan Enforcement Monitor | No installment fails silently | 🔴 Shipping |
-| Referral Request Enforcer | No happy client leaves without being asked | 🔴 Shipping |
-
-*Watch the repo to follow the build. Each agent ships with the n8n workflow, Claude Code logic, and the math behind it.*
-
----
-
-## Stack
-
-- **n8n** — enforcement workflow architecture
-- **Claude Code** — agent logic, NLP detection, decision trees
-- **Anthropic API** — intelligence layer inside every agent
-- **Stripe / QuickBooks / Gmail / Slack** — wherever the leakage actually lives
-
----
-
-## What I'm Not
-
-Not RevOps. Not an automation agency. Not an AI tools provider.
-
-I don't optimize performance. I enforce outcomes.
-
-Visibility does not prevent loss. Enforcement does.
+If a number can't be attached to it, it doesn't ship.
 
 ---
 
 ## Work Together
 
-If your revenue depends on someone remembering to follow up it's already leaking.
+If your business runs on inbound calls, proposals, invoices, or recurring clients, there is revenue escaping that your current systems cannot see.
 
-**[→ Book a Revenue Integrity Diagnostic](https://calendly.com/physisadvisory/1-1-physis-ai-implementation-review)**
-We quantify what's escaping and map the enforcement architecture to stop it.
+**[Book a Revenue Integrity Diagnostic →](https://calendly.com/physisadvisory/1-1-physis-ai-implementation-review)**
+We quantify what's escaping and map the system that stops it.
 
-**[→ Connect on LinkedIn](https://www.linkedin.com/in/ronald-farley-jr-882345157/)**
+<p>
+  <a href="https://calendly.com/physisadvisory/1-1-physis-ai-implementation-review"><img src="https://img.shields.io/badge/Book%20a%20Call-000000?style=flat-square&logo=googlecalendar&logoColor=white" alt="Book a Call"></a>
+  <a href="https://www.linkedin.com/in/ronald-farley-jr-882345157/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 ---
 
-*"We don't help you make more money. We make it impossible to lose money you already earned."*
+*Enforcement, not visibility. Outcomes, not hype.*
