@@ -39,7 +39,7 @@ If your business runs on inbound calls, proposals, invoices, or recurring client
 We quantify what's escaping and map the system that stops it.
 
 <p>
-  <a href="https://calendly.com/physisadvisory/1-1-physis-ai-implementation-review"><img src="https://img.shields.io/badge/Book%20a%20Call-000000?style=flat-square&logo=googlecalendar&logoColor=white" alt="Book a Call"></a>
+  <a href="https://calendar.app.google/vxvGvQjin91JTztp9" alt="Book a Call"></a>
   <a href="https://www.linkedin.com/in/ronald-farley-jr-882345157/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
