@@ -35,7 +35,7 @@ If a number can't be attached to it, it doesn't ship.
 
 If your business runs on inbound calls, proposals, invoices, or recurring clients, there is revenue escaping that your current systems cannot see.
 
-**[Book a Revenue Integrity Diagnostic →](https://calendly.com/physisadvisory/1-1-physis-ai-implementation-review)**
+**[Book a Revenue Integrity Diagnostic →](https://calendar.app.google/vxvGvQjin91JTztp9)**
 We quantify what's escaping and map the system that stops it.
 
 <p>
